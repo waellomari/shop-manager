@@ -27,7 +27,7 @@ function HeaderPage ({loggedIn}) {
 
     return(
         <>
-            <h1 id='header' className="display-2 App p-4">Shop Manager ;)</h1>
+            <h1 id='header' className="display-2 App p-4">Shop-Manager ;)</h1>
 
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-4" >
             
